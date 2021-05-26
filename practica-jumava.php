@@ -37,3 +37,6 @@ function restar($num1, $num2){
  */
 echo "La suma de 6 + 4 es: ".sumar(6,4);
 echo "La resta de 6 - 4 es: ".restar(6, 4);
+
+//Añado esta linea
+echo "he añadido una linea";
